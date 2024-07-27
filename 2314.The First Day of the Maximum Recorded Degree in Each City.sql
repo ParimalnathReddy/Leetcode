@@ -7,3 +7,4 @@ SELECT city_id, day, degree
 FROM cte
 WHERE rank = 1
 ORDER BY city_id
+-- hello
